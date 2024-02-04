@@ -61,7 +61,7 @@ document.addEventListener('DOMContentLoaded', function() {
     }
 
     function basardiniz() {
-        alert('tebrikler oyunun amına koydunuz!')
+        alert('tebrikler başardınız')
     }
 
 
